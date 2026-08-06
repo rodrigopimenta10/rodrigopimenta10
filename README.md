@@ -2,7 +2,7 @@
 
 **Systems Engineer @ Hughes Network Systems** — I build Python automation and self-healing systems for satellite ground infrastructure serving 800K+ subscribers.
 
-I build **AI-native**. Kiro, Cursor, and Claude Code are part of my daily workflow, and they let me go from idea to a hosted, working project fast. I lean on strong problem-solving and AI leverage to ship real software rather than memorizing low-level syntax.
+I build **AI-native**. Kiro, Cursor, and Claude Code are part of my daily workflow, and they let me take an idea to a deployed project quickly. Deep systems debugging and AI leverage aren't in tension: the first tells me what's actually worth building, the second gets it shipped.
 
 ---
 
