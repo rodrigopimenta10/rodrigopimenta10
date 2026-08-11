@@ -50,4 +50,4 @@ Portfolio and background. React + Vite, dual-hosted so links already in circulat
 
 [LinkedIn](https://linkedin.com/in/rodrigoppimenta) · [rodrigopimenta.com](https://rodrigopimenta.com) · [Résumé](https://rodrigopimenta.com/rodrigo_pimenta_resume.pdf) · RodrigoPimenta102@gmail.com
 
-Open to platform, infrastructure, and backend software engineering roles — remote, NYC, or the DC/Maryland/Virginia area.
+Open to platform, infrastructure, backend, and SRE software engineering roles — remote, or the NYC, DC–Baltimore, and SF Bay Area metros.
