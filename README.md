@@ -9,7 +9,7 @@ Open to backend and platform engineering roles in New York.
 ### Now
 
 - Leading [Sightline](https://lunarsightline.com), a lunar landing-site planner that runs on Google Cloud.
-- Building [aws-platform-terraform](https://github.com/rodrigopimenta10/aws-platform-terraform) one module at a time. Network and identity are done; containers and EKS are next.
+- Building [aws-platform-terraform](https://github.com/rodrigopimenta10/aws-platform-terraform) one module at a time. The network is done and identity is nearly done; containers and EKS come next.
 
 ### Projects
 
