@@ -47,4 +47,4 @@ This code belongs to my employer and is not public. From my [resume](https://rod
 
 ### Reach me
 
-[rodrigopimenta.com](https://rodrigopimenta.com) · [LinkedIn](https://linkedin.com/in/rodrigoppimenta) · [Resume (PDF)](https://rodrigopimenta.com/rodrigo_pimenta_resume.pdf) · [RodrigoPimenta102@gmail.com](mailto:RodrigoPimenta102@gmail.com)
+[rodrigopimenta.com](https://rodrigopimenta.com) · [LinkedIn](https://linkedin.com/in/rodrigopimenta10) · [Resume (PDF)](https://rodrigopimenta.com/rodrigo_pimenta_resume.pdf) · [RodrigoPimenta102@gmail.com](mailto:RodrigoPimenta102@gmail.com)
